@@ -111,7 +111,7 @@ const Features = () => {
                             rounded-md text-base py-3 font-medium px-6 cursor-pointer inline-block md:my-0 mt-5"
                             data-aos="fade-left"
                         >
-                            <Link href='/get-started' className="text-white uppercase inter">
+                            <Link href='/get-started' className="text-white uppercase">
                                 Get Your EquiPay Account
                             </Link>
                         </div>
@@ -153,7 +153,7 @@ const Features = () => {
                             <div className="border border-[#ef793c] bg-linear-to-r from-[#ef793c] to-[#ff6a00] 
                                 rounded-md text-base py-3 font-medium px-6 cursor-pointer inline-block mt-5"
                             >
-                                <Link href='/get-started' className="text-white uppercase inter">
+                                <Link href='/get-started' className="text-white uppercase ">
                                     Get Started
                                 </Link>
                             </div>

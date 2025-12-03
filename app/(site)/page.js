@@ -86,7 +86,7 @@ const Home = () => {
                             <div className="border border-[#ef793c] bg-linear-to-r from-[#ef793c] to-[#ff6a00] 
                                 rounded-md text-base py-3 font-medium px-6 cursor-pointer"
                             >
-                                <Link href='/contact' className="text-white uppercase inter">
+                                <Link href='/contact' className="text-white uppercase">
                                     CONTACT US
                                 </Link>
                             </div>
@@ -153,7 +153,7 @@ const Home = () => {
                             rounded-md text-base py-3 font-medium px-6 cursor-pointer inline-block md:my-0 mt-5"
                             data-aos="fade-left"
                         >
-                            <Link href='/get-started' className="text-white uppercase inter">
+                            <Link href='/get-started' className="text-white uppercase">
                                 Get Your EquiPay Account
                             </Link>
                         </div>

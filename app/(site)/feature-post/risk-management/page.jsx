@@ -117,7 +117,7 @@ const RiskManagement = () => {
                             rounded-md text-base py-3 font-medium px-6 cursor-pointer inline-block md:my-0 mt-5"
                             data-aos="fade-left"
                         >
-                            <Link href='/get-started' className="text-white uppercase inter">
+                            <Link href='/get-started' className="text-white uppercase">
                                 Get Your EquiPay Account
                             </Link>
                         </div>
